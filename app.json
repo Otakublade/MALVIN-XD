@@ -7,7 +7,7 @@
 
     "stack": "container",
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {MALVIN-XD~V4xExTya#OgZOiy5hPQyNnBSE2KFKDtq92QeRlZmpgpEsAtyvD1Q
       "description": "Put the session-id here.",
       "required": true,
       "value": ""
@@ -63,25 +63,25 @@
       "value": "false"
     }, 
 
-    "AUTO_REPLY": {
+    "AUTO_REPLY": {true
       "description": "Make it true if you want automatic reply.",
       "required": false,
       "value": "false"
     }, 
 
-    "AUTO_STICKER": {
+    "AUTO_STICKER": {true
       "description": "Make it true if you want automatic sticker.",
       "required": false,
       "value": "false"
     }, 
 
-    "AUTO_STATUS_SEEN": {
+    "AUTO_STATUS_SEEN": {false
       "description": "Make it true for automatic status seen.",
       "required": true,
       "value": "true"
      }, 
 
-    "AUTO_STATUS_REACT": {
+    "AUTO_STATUS_REACT": {false
       "description": "make it true for automatic status reaction or like.",
       "required": true,
       "value": "true"
@@ -99,7 +99,7 @@
       "value": "*🎉👀Status Seen by malvin xd v2🚀🔥*"
     }, 
 
-    "OWNER_NAME": {
+    "OWNER_NAME": {Otakublade340 
       "description": "Type Bot Owner Name.",
       "required": false,
       "value": "Malvin King"
@@ -113,27 +113,27 @@
 
     }, 
 
-    "BOT_NAME": {
+    "BOT_NAME": {Hanako
       "description": "Type here the bot name.",
       "required": false,
       "value": "✦ᴍᴀʟᴠɪɴ xᴅ v2✦"
 
       }, 
 
-    "ANTI_LINK": {
+    "ANTI_LINK": {false
       "description": "Make it true if you want bot auto remove group link.",
       "required": true,
       "value": "false"
       
     },
     
-    "ANTI_BAD": {
+    "ANTI_BAD": {false
       "description": "Make it true if you want bot auto delete bad words.",
       "required": false,
       "value": "false"
     }, 
 
-     "DESCRIPTION": {
+     "DESCRIPTION": {menu
       "description": "add caption for menu and other",
       "required": false,
       "value": "*> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ɴᴇxᴜs ᴛᴇᴄʜ✦ ɪɴᴄ✦*"
@@ -168,7 +168,7 @@
       "value": "false"
     },
     
-    "AUTO_REACT": {
+    "AUTO_REACT": {true
       "description": "Make it true if you want react on every message.",
       "required": false,
       "value": "false"
